@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/MainScreen.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/ModifyParts.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/AddProduct.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/AlertMessage.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Model/Inventory.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Model/OutSourced.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/AddProductController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Model/Part.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/AddParts.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/ModifyProductController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/ModifyProduct.fxml</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Main/ClassProject.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Model/InHouse.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/ModifyPartsController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Model/Product.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/AddPartsController.java</file>
+            <file>file:/C:/Users/bergs/Documents/NetBeansProjects/ClassProject/src/Controller/MainScreenController.java</file>
+        </group>
+    </open-files>
+</project-private>
